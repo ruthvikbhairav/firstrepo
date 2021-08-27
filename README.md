@@ -1,1 +1,2 @@
 # firstrepo
+life is beautiful
